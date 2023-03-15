@@ -2,15 +2,15 @@
 share my EFI (Model: xps13-9360-8250)
 
 My computer situation:
-Model: Dell-xps13-9360
-Processor: Intel i5-8250u
-Memory: 8GB
-Graphics: Intel UHD Graphics 620
-Monitor: 1920x1080
-SSD: PLEXTOR PX-512M9PeGN
-Bluetooth: BCM94360cs2
-Wireless: BCM94360cs2
-Version: Ventura 13.0
+- Model: Dell-xps13-9360 
+- Processor: Intel i5-8250u
+- Memory: 8GB
+- Graphics: Intel UHD Graphics 620
+- Monitor: 1920x1080
+- SSD: PLEXTOR PX-512M9PeGN
+- Bluetooth: BCM94360cs2
+- Wireless: BCM94360cs2
+- Version: Ventura 13.0
 
 Work:
 1. Boot to startup / shutdown
